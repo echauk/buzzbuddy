@@ -5,6 +5,7 @@
 2. source finder for dbqs and such (highlight something in your google doc, click the extension, and the extension searches the web for sources that might support your reasoning
 3. mental health-related project? online school is not it for sure
 4. report harrassment issues and mental health concerns on campus and be paired with a student to have a coffee chat with? (seems kinda cheesy and might already exist)
+5. covid-19 encourages child labor in some developing countries, especially countries where girls' education is not prioritized, because people are losing their jobs and need a source of income -> crowdfunding platform that collects resources (anything from monetary donations to devices to subscriptions to academic resources) to encourage girls to learn from home
 
 ## healthcare:
 1. use maps api to find the nearest pharmacy that has all the items from your prescription
