@@ -15,6 +15,8 @@
 1. app/website for monthly bias training for all employees (new topic every month)
 2. anonymous harassment reporting system (this is probably also a thing already lol) - could makes things up 
 3. alot more men than women in certain fields - app for women across diff projects to interact and get to know each other - problem might be there's a women resources company; more informal rather than keeping it in the workplace
+4. real-time statistics about gender ratios within the workplace
+5. during recruitment process, a tool that lets you know how much men in that position has gotten paid
 
 ## sports:
 1. painful issues with periods
