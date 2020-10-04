@@ -28,7 +28,7 @@
 7. not going to gym bc too many guys
 
 Solutions 
-- connect girls with professsional athletes
+- connect girls with professional athletes
 - show who is signed up for the CRC and see your not the only girl 
 - virtual simulation of girls playing
 
