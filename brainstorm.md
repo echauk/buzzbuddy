@@ -20,3 +20,4 @@
 3. lack of encouragement
 4. inequality with body-shaming
 5. women have to work harder to prove themselves
+6. access to sports equipment
