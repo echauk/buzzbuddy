@@ -17,6 +17,8 @@
 3. alot more men than women in certain fields - app for women across diff projects to interact and get to know each other - problem might be there's a women resources company; more informal rather than keeping it in the workplace
 4. real-time statistics about gender ratios within the workplace
 5. during recruitment process, a tool that lets you know how much men in that position has gotten paid
+6. women face imposter syndrome a lot more
+7. platform to connect events and companies to certain dashboards so it's easier for women to navigate thru career fairs and local women support group events.
 
 ## sports:
 1. painful issues with periods
@@ -28,8 +30,8 @@
 7. not going to gym bc too many guys
 
 Solutions 
-- connect girls with professional athletes
-- show who is signed up for the CRC and see you're not the only girl 
+- connect girls with professsional athletes
+- show who is signed up for the CRC and see your not the only girl 
 - virtual simulation of girls playing
 
 ## survey:
