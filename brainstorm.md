@@ -15,4 +15,8 @@
 2. anonymous harassment reporting system (this is probably also a thing already lol)
 
 ## sports:
-1. 
+1. painful issues with periods
+2. issues with confidence 
+3. lack of encouragement
+4. inequality with body-shaming
+5. women have to work harder to prove themselves
