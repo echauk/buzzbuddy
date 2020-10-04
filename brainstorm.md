@@ -9,10 +9,12 @@
 ## healthcare:
 1. use maps api to find the nearest pharmacy that has all the items from your prescription
 2. professional calendar feature where doctors can store appointments and share with patients so patients can auto-book appointments instead of calling
+3. bringing awarness to regular issues faced by women 
 
 ## workforce:
 1. app/website for monthly bias training for all employees (new topic every month)
-2. anonymous harassment reporting system (this is probably also a thing already lol)
+2. anonymous harassment reporting system (this is probably also a thing already lol) - could makes things up 
+3. alot more men than women in certain fields - app for women across diff projects to interact and get to know each other - problem might be there's a women resources company; more informal rather than keeping it in the workplace
 
 ## sports:
 1. painful issues with periods
@@ -21,3 +23,12 @@
 4. inequality with body-shaming
 5. women have to work harder to prove themselves
 6. access to sports equipment
+7. not going to gym bc too many guys
+
+Solutions 
+- connect girls with professsional athletes
+- show who is signed up for the CRC and see your not the only girl 
+- virtual simulation of girls playing
+
+## survey:
+1. optional gender identification
