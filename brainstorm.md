@@ -11,7 +11,8 @@
 2. professional calendar feature where doctors can store appointments and share with patients so patients can auto-book appointments instead of calling
 
 ## workforce:
-1. 
+1. app/website for monthly bias training for all employees (new topic every month)
+2. anonymous harassment reporting system (this is probably also a thing already lol)
 
 ## sports:
 1. 
