@@ -29,7 +29,7 @@
 
 Solutions 
 - connect girls with professional athletes
-- show who is signed up for the CRC and see your not the only girl 
+- show who is signed up for the CRC and see you're not the only girl 
 - virtual simulation of girls playing
 
 ## survey:
