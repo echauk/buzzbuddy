@@ -10,11 +10,11 @@
 - pace + intensity (also sprint vs. distance)
 - time spent working out (looking for an hour run vs. a 20 minute run or longer vs shorter workouts with videos or in gym)
 - year + major
-- time spent working out
-- music?
+- music
 - long term (every other day) or just a few times
-- will you be wearing a mask?
+- will you be wearing a mask? (are you open, do you prefer?)
 - (for runners and walkers) usual trails
+- additional info option
 *not all the fields are required*
 - users then receive "matches" – like tinder! – and can choose to "swipe left or right" based on whether they want to
 - authenticate through gt email to avoid creepy stalkers
