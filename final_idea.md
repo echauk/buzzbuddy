@@ -4,6 +4,7 @@
 - enter workout preferences
 - match with others who share similar preferences
 - geared towards female athletes who need more intensive workouts and some can't workout with their team bc of covid restrictions
+- meant for female-identifying GT students
 
 ## specifications and customization
 - type of workout preferred
