@@ -8,7 +8,7 @@
 ## specifications and customization
 - type of workout preferred
 - pace + intensity (also sprint vs. distance)
-- time spent working out (looking for an hour run vs. a 20 minute run)
+- time spent working out (looking for an hour run vs. a 20 minute run or longer vs shorter workouts with videos or in gym)
 - year + major
 - time spent working out
 - music?
