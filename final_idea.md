@@ -17,6 +17,7 @@
 - (for runners and walkers) usual trails
 *not all the fields are required*
 - users then receive "matches" – like tinder! – and can choose to "swipe left or right" based on whether they want to
+- authenticate through gt email to avoid creepy stalkers
 - (optional) users can directly message each other on the app once matched to protect privacy
 
 ## logistics
