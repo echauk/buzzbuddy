@@ -15,6 +15,7 @@
 - will you be wearing a mask? (are you open, do you prefer?)
 - (for runners and walkers) usual trails
 - additional info option
+
 *not all the fields are required*
 - users then receive "matches" – like tinder! – and can choose to "swipe left or right" based on whether they want to
 - authenticate through gt email to avoid creepy stalkers
