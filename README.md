@@ -1,5 +1,8 @@
 # hacklikew@cc20
 
+## contributors
+Shreya Santhanagopalan, Eshani Chauk, Yesha Thakkar, Sun Graham
+
 ## main info:
 https://cchackathon.github.io/hack-like-w-cc/: contains resources that we may need such as css styling, icons, ui mockup tools, script editors, and workshops
 
