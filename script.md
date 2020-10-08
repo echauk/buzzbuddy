@@ -14,7 +14,7 @@
 - yesha: 
 
 ## written script
-[introduce ourselves - hi, my name is, etc]. We're excited to introduce Gymder, the very first app for Tech female students to find other female-identifying students to work out with. 
+[introduce ourselves - hi, my name is, etc]. We're excited to introduce Gymder, the very first app for Tech female students to find other female-identifying students to work out with. Our team quickly identified a problem that we believed affected a large portion of the Georgia Tech population: increasing female engagement in athletics by pairing students together while making them feel supported and safe. To support our hypothesis, we created a survey and received responses from over 80 Tech students. Our findings show that almost all girls that responded believed that having a workout buddy would motivate them, so we are certain that our app will have an impact on making the Tech community healthier and getting more girls involved in working out. 
 
 ## logistics
 https://gtvault-my.sharepoint.com/:w:/g/personal/ggermanson3_gatech_edu/EWHmZv1cXKFNpjlR3pTu6toBbPHj0J0F32SQIOgm19EedA?e=LjHbCC
