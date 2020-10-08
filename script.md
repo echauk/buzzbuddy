@@ -1,5 +1,21 @@
 # script for video pitch
 
+## flow
+- how we decided on our idea
+- identified problem, figured out details to our solution
+- determined what features we wanted in app
+- used figma and thunkable to create app
+- show app demo (voiceover during this)
+- what we would add in the future: GT specific login, more inclusive/diverse preferences, etc (please add some ideas here!)
+- each team member's strength and how we leveraged that (we can all put one strength and one or two tasks that show this strength)
+- eshani: 
+- sun: 
+- shreya:  
+- yesha: 
+
+## written script
+[introduce ourselves - hi, my name is, etc]. We're excited to introduce Gymder, the very first app for Tech female students to find other female-identifying students to work out with. 
+
 ## logistics
 https://gtvault-my.sharepoint.com/:w:/g/personal/ggermanson3_gatech_edu/EWHmZv1cXKFNpjlR3pTu6toBbPHj0J0F32SQIOgm19EedA?e=LjHbCC
 - Talk about your decisions and processes of working on your project
