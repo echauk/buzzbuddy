@@ -1,6 +1,6 @@
 # hacklikew@cc20
 
-## contributors
+## contributors:
 Shreya Santhanagopalan, Eshani Chauk, Yesha Thakkar, Sun Graham
 
 ## main info:
