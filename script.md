@@ -1,8 +1,8 @@
 # script for video submission
 
 ## logistics
--Talk about your decisions and processes of working on your project
--Showcase your final product, and any tools/skills you used
+- Talk about your decisions and processes of working on your project
+- Showcase your final product, and any tools/skills you used
 -Talk about features that you would implement if you were to continue working on the project after submission
 -Talk about the entire experience of the product of using it from beginning to end
 -Talk about how each teammate leveraged their own unique skills towards the project
